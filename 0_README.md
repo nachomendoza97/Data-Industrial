@@ -9,7 +9,6 @@
 * **Problema:** DFalta de visibilidad sobre el rendimiento real de las líneas de producción y desconocimiento de las causas raíz de las paradas.
 * **Solución:** Desarrollo de un script en Python que procesa logs de producción para calcular automáticamente la Disponibilidad, el Rendimiento y la Calidad de los activos.
 * **Impacto:** Generación de tableros de control que permiten identificar rápidamente si el cuello de botella es mecánico (disponibilidad) o de proceso (velocidad)
-* ![Gráfico Pareto](.png)
 
 
 ### 2. Análisis de Fallas y Frecuencia
@@ -21,7 +20,8 @@
 ### 3. Optimización de Inventarios (ABC por Valor)
 * **Problema:** Capital inmovilizado excesivo y falta de criterios claros para la priorización de compras en el almacén.
 * **Solución:** Implementación de un análisis de Pareto (80/20) basado en el valor de consumo anual de los SKUs.
-* **Impacto:** Identificación del 20% de artículos críticos que representan la mayor inversión, optimizando el flujo de caja. 
+* **Impacto:** Identificación del 20% de artículos críticos que representan la mayor inversión, optimizando el flujo de caja.
+* * ![Proyecto3](.png)
 
 
 ### 4. Clasificación ABC (por Cantidad de SKUs)
