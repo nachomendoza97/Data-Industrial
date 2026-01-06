@@ -21,28 +21,28 @@
 * **Problema:** Capital inmovilizado excesivo y falta de criterios claros para la priorización de compras en el almacén.
 * **Solución:** Implementación de un análisis de Pareto (80/20) basado en el valor de consumo anual de los SKUs.
 * **Impacto:** Identificación del 20% de artículos críticos que representan la mayor inversión, optimizando el flujo de caja.
-* ![Proyecto3].(png)
+* ![Proyecto3](.png)
 
 
 ### 4. Clasificación ABC (por Cantidad de SKUs)
 * **Problema:** Dificultad para organizar conteos cíclicos y auditorías de inventario debido a la gran variedad de ítems en stock.
 * **Solución:** Algoritmo de clasificación basado en el porcentaje físico de ítems (20% A, 35% B, 45% C) utilizando desempates por tiempo de reposición.
 * **Impacto:** Mejora en la eficiencia operativa del depósito al asignar los recursos de control a la minoría de productos de alto movimiento.
-* ![Proyecto4].(png)
+* ![Proyecto4](.png)
 
 
 ### 5. Mantenimiento Predictivo (RUL - Remaining Useful Life)
 * **Problema:** Altos costos operativos por paradas imprevistas en motores y activos críticos (como flotas de camiones o maquinaria agroindustrial).
 * **Solución:** Modelo de regresión que utiliza datos de sensores (vibración y temperatura) para predecir cuántos días de vida útil le quedan a un equipo antes de fallar.
 * **Impacto:** Transición de un esquema de mantenimiento preventivo (fijo) a uno predictivo (basado en condición), maximizando la vida útil de los componentes y evitando reparaciones de emergencia.
-* ![Proyecto5].(png)
+* ![Proyecto5](.png)
 
 
 ### 6. OPT & Scheduling (Secuenciamiento con Matriz SDST)
 * **Problema:** Retrasos significativos en la producción (Makespan elevado) debido a secuencias de lotes incompatibles que requieren limpiezas profundas o cambios de matriz complejos.
 * **Solución:** Simulador de programación de la producción que utiliza matrices de cambio asimétricas (SDST) y reglas de desempate (Short/Long Tail) para encontrar la secuencia óptima.
 * **Impacto:** Reducción del tiempo total de fabricación y eliminación de penalizaciones por incompatibilidad técnica entre procesos sucesivos
-* ![Proyecto6a].(png)
+* ![Proyecto6a](.png)
 
 "Este modelo implementa una Matriz de Setups dependientes de la secuencia. Se demuestra cómo una política de desempate (Long Tail vs Short Tail) puede ahorrar hasta un 20% de tiempo de planta al evitar secuencias de producción incompatibles que requieren limpiezas profundas."
 
