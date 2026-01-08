@@ -5,7 +5,7 @@ A continuacion se listan instrucciones para poder interactuar con la plantilla y
 
 **Instrucciones:**
 
-1. Abrir la Plantilla de Google Sheets.
+1. Abrir la Plantilla de Google Sheets: https://docs.google.com/spreadsheets/d/1aPsyywIl1GXf7R_GONxx8CCCqVS4gEenTWHtylUVUA8/edit?usp=sharing
 2. Cargar los datos en las pestañas INP_ABC o INP_Scheduling.
 3. Ejecutar el Notebook correspondiente en esta carpeta.
 
