@@ -3,6 +3,9 @@
 
 ¡Bienvenido! En este repositorio consolido soluciones analíticas aplicadas a la optimización de procesos industriales, logística y mantenimiento preventivo utilizando Python y herramientas de Datos.
 
+** Planilla de carga de datos y visualizacion de resultados/Graficos
+La visualizacion de los resultados y de los datos ingresados a evaluar se presentan en: https://docs.google.com/spreadsheets/d/1aPsyywIl1GXf7R_GONxx8CCCqVS4gEenTWHtylUVUA8/edit?usp=sharing 
+
 ## 🚀 Proyectos Destacados
 
 ### 1. Cálculo de OEE (Eficiencia Global de Equipos) 
@@ -29,6 +32,7 @@
 * **Solución:** Algoritmo de clasificación basado en el porcentaje físico de ítems (20% A, 35% B, 45% C) utilizando desempates por tiempo de reposición.
 * **Impacto:** Mejora en la eficiencia operativa del depósito al asignar los recursos de control a la minoría de productos de alto movimiento.
 * ![Proyecto4](.png)
+* ![Resultado ABCpng](.png)
 
 
 ### 5. Mantenimiento Predictivo (RUL - Remaining Useful Life)
@@ -43,6 +47,7 @@
 * **Solución:** Simulador de programación de la producción que utiliza matrices de cambio asimétricas (SDST) y reglas de desempate (Short/Long Tail) para encontrar la secuencia óptima.
 * **Impacto:** Reducción del tiempo total de fabricación y eliminación de penalizaciones por incompatibilidad técnica entre procesos sucesivos
 * ![Proyecto6a](.png)
+* ![Resultados Gantt](.png)
 
 "Este modelo implementa una Matriz de Setups dependientes de la secuencia. Se demuestra cómo una política de desempate (Long Tail vs Short Tail) puede ahorrar hasta un 20% de tiempo de planta al evitar secuencias de producción incompatibles que requieren limpiezas profundas."
 
