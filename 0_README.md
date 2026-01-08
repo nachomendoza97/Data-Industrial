@@ -32,7 +32,7 @@ La visualizacion de los resultados y de los datos ingresados a evaluar se presen
 * **Solución:** Algoritmo de clasificación basado en el porcentaje físico de ítems (20% A, 35% B, 45% C) utilizando desempates por tiempo de reposición.
 * **Impacto:** Mejora en la eficiencia operativa del depósito al asignar los recursos de control a la minoría de productos de alto movimiento.
 * ![Proyecto4](.png)
-* ![Resultados ABCpng.png]
+* ![Resultados ABCpng](.png)
 
 
 ### 5. Mantenimiento Predictivo (RUL - Remaining Useful Life)
